@@ -1,2 +1,2 @@
 # Simon
-This is a game to play 
+This is a game to play.
